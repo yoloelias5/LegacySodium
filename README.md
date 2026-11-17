@@ -30,7 +30,7 @@ The GitHub Actions workflow builds on pushes and pull requests and stores the JA
 ## Roadmap
 
 - [x] Establish the 1.8.9 Legacy Fabric project and dependency setup
-- [x] Add automated Java 8-targeted build checks
+- [x] Configure automated CI builds targeting Java 8 bytecode
 - [ ] Replace template code with the independent rendering implementation
 - [ ] Add configurable performance options
 - [ ] Test in a real 1.8.9 client with other Legacy Fabric mods
